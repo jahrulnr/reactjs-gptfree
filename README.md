@@ -3,7 +3,7 @@
 This is a clone of ChatGPT, a large language model trained by OpenAI, built using ReactJS.
 <br/><strong>NOT REQUIRE ANY API KEY</strong>
 
-![](./preview/video.webm)
+[![Watch the video](./preview/screenshoot.png)](./preview/video.webm)
 
 ## Getting Started
 
