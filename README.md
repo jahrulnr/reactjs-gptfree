@@ -3,19 +3,19 @@
 This is a clone of ChatGPT, a large language model trained by OpenAI, built using ReactJS.
 <br/><strong>NOT REQUIRE ANY API KEY</strong>
 
+[![Watch the video](./preview/screenshoot.png)](./preview/video.webm)
+
 ## Getting Started
 
 To get started with this project, follow these steps:
 
-- Clone this repository to your local machine.
-
-```
+```bash
 git clone https://github.com/jahrulnr/reactjs-gptfree.git
-```
 
-- Install the necessary dependencies by running npm install in the project directory.
-- Start the development server by running npm start.
-- Open http://localhost:3000 to view the app in your browser.
+cd reactjs-gptfree
+npm install
+npm start
+```
 
 ## Features
 
@@ -33,3 +33,7 @@ This project was built using the following technologies:
 - ReactJS
 - Bootstrap
 - Font Awesome
+
+## Reference
+
+[ramonvc / FreeGPT WebUI](https://github.com/ramonvc/freegpt-webui)
