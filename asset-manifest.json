@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/reactjs-gptfree/static/css/main.4da62354.css",
+    "main.js": "/reactjs-gptfree/static/js/main.ac2484b2.js",
+    "index.html": "/reactjs-gptfree/index.html",
+    "main.4da62354.css.map": "/reactjs-gptfree/static/css/main.4da62354.css.map",
+    "main.ac2484b2.js.map": "/reactjs-gptfree/static/js/main.ac2484b2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4da62354.css",
+    "static/js/main.ac2484b2.js"
+  ]
+}
